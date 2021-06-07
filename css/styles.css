@@ -3,15 +3,16 @@ body {
 }
 
 h1 {
-  font-family: "Montserrat-Black", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 3.5rem;
   line-height: 1.5;
-  font-weight: bold;
+  font-weight: 900;
+  color: #fff;
 }
 
 h3 {
-  font-family: "Montserrat", inherit;
-  font-size: 1.25rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
 }
 
 p {
@@ -20,9 +21,10 @@ p {
 }
 
 h2 {
-  font-family: "Montserrat-Bold", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
   line-height: 1.5;
+  font-weight: bold;
 }
 
 #title {
@@ -49,7 +51,7 @@ h2 {
 
 .navbar-brand {
   font-family: "Ubuntu", sans-serif;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   font-weight: bold;
 }
 
@@ -130,9 +132,10 @@ h2 {
 }
 
 .cta-heading {
-  font-family: "Montserrat-Black", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
   line-height: 2.5rem;
+  font-weight: 900;
 }
 
 #footer {
